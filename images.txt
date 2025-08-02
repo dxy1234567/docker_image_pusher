@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:20.04
 osrf/ros:noetic-desktop-full
+portainer/portainer
